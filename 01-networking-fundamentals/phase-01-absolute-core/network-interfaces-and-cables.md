@@ -92,6 +92,14 @@ Understanding network interfaces and transmission media helps when identifying h
 - Professor Messer
 - Jeremy's IT Lab
 
-## Handwritten Reference
 
-![Straight-through and crossover cable diagrams](straight-through-crossover-cables.jpg)
+## Handwritten Learning Notes
+
+### Straight-Through and Crossover Cable — Page 1
+
+![Straight-through and crossover cable diagram - Page 1](straight-through-crossover-cables-1.jpg)
+
+### Straight-Through and Crossover Cable — Page 2
+
+![Straight-through and crossover cable diagram - Page 2](straight-through-crossover-cables-2.jpg)
+
