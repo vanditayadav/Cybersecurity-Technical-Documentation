@@ -81,7 +81,15 @@ Private networks commonly use NAT to enable communication with external networks
 ### Important distinctions
 
 - **Loopback:** Used by a device to communicate with itself.
-- **Link-local:** IPv4 addresses in this range can be automatically assigned when normal address configuration is unavailable.
+- **Link-local:** **Link-local / APIPA:** IPv4 addresses in the `169.254.0.0/16` range are used for automatic link-local addressing when a device cannot obtain normal IPv4 configuration through DHCP.
+
+- Address range: `169.254.0.0 – 169.254.255.255`
+- Subnet mask: `255.255.0.0`
+- CIDR prefix: `/16`
+- These addresses support communication on the local network link.
+- They are not routed across different networks.
+
+**Important:** An APIPA address can indicate that a device was unable to obtain an IPv4 configuration from a DHCP server. However, it does not by itself establish the exact cause of the DHCP failure.
 - **Limited broadcast:** Targets all hosts on the local network segment; routers do not forward it.
 
 ## 7. DHCP — Dynamic Host Configuration Protocol
