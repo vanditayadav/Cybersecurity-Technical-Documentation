@@ -130,3 +130,7 @@ A port number alone does not prove which application generated traffic or whethe
 - Professor Messer
 - Jeremy's IT Lab
 - Original handwritten Phase 1 networking notes
+
+## Handwritten Learning Notes
+
+![TCP/IP encapsulation handwritten notes](tcp-ip-encapsulation-notes.jpg)
