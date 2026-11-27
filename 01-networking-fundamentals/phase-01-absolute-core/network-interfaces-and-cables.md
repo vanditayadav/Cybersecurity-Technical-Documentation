@@ -91,3 +91,7 @@ Understanding network interfaces and transmission media helps when identifying h
 - Original handwritten Phase 1 networking notes
 - Professor Messer
 - Jeremy's IT Lab
+
+## Handwritten Reference
+
+![Straight-through and crossover cable diagrams](straight-through-crossover-cables.jpg)
