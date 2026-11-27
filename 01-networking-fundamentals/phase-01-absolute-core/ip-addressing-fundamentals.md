@@ -124,3 +124,27 @@ An IP address alone does not identify a person or prove who was operating a devi
 - Original handwritten Phase 1 networking notes
 - Professor Messer
 - Jeremy's IT Lab
+
+
+## Complete Handwritten IPv4 Notes
+
+### Page 1
+![IPv4 handwritten notes - Page 1](../images/ip-addressing/ip-addressing-basics-notes-1.jpg)
+
+### Page 2
+![IPv4 handwritten notes - Page 2](../images/ip-addressing/ip-addressing-basics-notes-2.jpg)
+
+### Page 3
+![IPv4 handwritten notes - Page 3](../images/ip-addressing/ip-addressing-basics-notes-3.jpg)
+
+### Page 4
+![IPv4 handwritten notes - Page 4](../images/ip-addressing/ip-addressing-basics-notes-4.jpg)
+
+### Page 5
+![IPv4 handwritten notes - Page 5](../images/ip-addressing/ip-addressing-basics-notes-5.jpg)
+
+### Page 6
+![IPv4 handwritten notes - Page 6](../images/ip-addressing/ip-addressing-basics-notes-6.jpg)
+
+### Page 7
+![IPv4 handwritten notes - Page 7](../images/ip-addressing/ip-addressing-basics-notes-7.jpg)
